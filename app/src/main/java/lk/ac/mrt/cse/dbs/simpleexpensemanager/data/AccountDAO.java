@@ -28,6 +28,8 @@ import lk.ac.mrt.cse.dbs.simpleexpensemanager.data.model.ExpenseType;
  */
 public interface AccountDAO {
 
+
+
     /***
      * Get a list of account numbers.
      *
